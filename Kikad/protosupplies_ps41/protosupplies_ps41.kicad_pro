@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "filename": "protosupplies_ps41.kicad_pro",
+    "version": 1
+  },
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_thickness": 1.6
+      }
+    }
+  },
+  "schematic": {
+    "page_layout_descr_file": ""
+  },
+  "pcbnew": {
+    "last_paths": {
+      "board": "protosupplies_ps41.kicad_pcb",
+      "schematic": "protosupplies_ps41.kicad_sch"
+    }
+  }
+}
